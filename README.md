@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Tpe Game using Python
+Tic Tac Toe Game using Python
